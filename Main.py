@@ -44,4 +44,5 @@ def main():
     course_file.writing()
     print "finished"
 
-main()
+if __name__ == "__main__":
+    main()

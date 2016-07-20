@@ -6,7 +6,7 @@ Simple and buggy ut course info crawler
 
 * 从TimeTable中提取所有课程代码
 
-* 仅作为筛选有效course code的手段，本身不提取任何课程信息
+  * 仅作为筛选有效course code的手段，本身不提取任何课程信息
 
 * 从Course Finder中利用提取出的课程代码提取指定学期的课程，生成Course Finder网页链接
 * 解析所有生成的连接，提取有用信息
@@ -18,27 +18,27 @@ Simple and buggy ut course info crawler
 
 * Program，Course两个储存类
 
-* 两项储存类均有一个visible标签方便用于文本存储以及分辨是否有效
-* 数据结构为字典
+  * 两项储存类均有一个visible标签方便用于文本存储以及分辨是否有效
+  * 数据结构为字典
 
 * Finder作为基础的爬虫模版
 
-* 包含一个待访问的域名domain，一个访问domain返回其html文本的method
-* 子类均使用字典保存信息
-* 两个子类需要实现的方法：
+  * 包含一个待访问的域名domain，一个访问domain返回其html文本的method
+  * 子类均使用字典保存信息
+  * 两个子类需要实现的方法：
 
-* data\_extraction：提取网页中的次级连接并获取html，存储于字典中
-* data\_construction：对字典中的所有html进行分析，提取信息
+    * data\_extraction：提取网页中的次级连接并获取html，存储于字典中
+    * data\_construction：对字典中的所有html进行分析，提取信息
 
 * ProgramFinder为Finder子类
 
-* 从Program Info Page提取所有Program名称及链接，建立Program类存储于字典中
-* 对于非标准链接，设置visible为false
+  * 从Program Info Page提取所有Program名称及链接，建立Program类存储于字典中
+  * 对于非标准链接，设置visible为false
 
 * CourseFinder为Finder子类
 
-* 从指定Program Page中提取所有course code，建立Course类，生成对应的Course Finder链接，保存html
-* 对字典中所有已有课程，分析html文件，分辨链接是否有效，对有效链接保存信息
+  * 从指定Program Page中提取所有course code，建立Course类，生成对应的Course Finder链接，保存html
+  * 对字典中所有已有课程，分析html文件，分辨链接是否有效，对有效链接保存信息
 
 * FileSystem负责保存爬下来的字典，字典均为key：object的格式，并且要求object有一个visible的标签及getter
 * Main实现了一个简单的命令行交互：提供Program列表，用户需选取Program及学期

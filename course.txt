@@ -1,0 +1,433 @@
+Course Code: CSC120H1
+---
+An introduction to computer science for students in other sciences, with an emphasis on gaining practical skills. Introduction to programming with examples and exercises appropriate to the sciences; web programming; software tools.  Topics from: database design, considerations in numerical calculation, using UNIX/LINUX systems. At the end of this course you will be able to develop computer tools for scientific applications, such as the structuring and analysis of experimental data. With some additional preparation, you will also be ready to go on to CSC148H1.  Practical (P) sections consist of supervised work in the computer laboratory. No programming experience is necessary.
+---
+Prerequisites: No prerequisites
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: Any CSC course, with the exception of CSC104H1
+
+
+Course Code: CSC236H1
+---
+The application of logic and proof techniques to Computer Science. Mathematical induction; correctness proofs for iterative and recursive algorithms; recurrence equations and their solutions; introduction to automata and formal languages.  This course assumes university-level experience with proof techniques and algorithmic complexity as provided by CSC165H1.  Very strong students who already have this experience (e.g. successful completion of MAT157Y1) may consult the undergraduate office about proceeding directly into CSC236H1.
+---
+Prerequisites: 60% or higher in CSC148H1/CSC150H1, 60% or higher in CSC165H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC240H1
+
+
+Course Code: CSC494H1
+---
+This half-course involves a significant project in any area of Computer Science. The project may be undertaken individually or in small groups. The course is offered by arrangement with a Computer Science faculty member. Not eligible for CR/NCR option.
+---
+Prerequisites: Three 300-/400-level CSC half-courses, and permission of the Associate Chair, Undergraduate Studies. Contact the Computer Science Undergraduate Office for information about course enrolment procedures.
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC418H1
+---
+Identification and characterization of the objects manipulated in computer graphics, the operations possible on these objects, efficient algorithms to perform these operations, and interfaces to transform one type of object to another. Display devices, display data structures and procedures, graphical input, object modelling, transformations, illumination models, primary and secondary light effects; graphics packages and systems. Students, individually or in teams, implement graphical algorithms or entire graphics systems.
+---
+Prerequisites: CSC336H1/CSC350H1/CSC351H1/CSC363H1/CSC365H1/CSC373H1/CSC375H1/CSC463H1, (MAT135H1, MAT136H1)/MAT135Y1/MAT137Y1/MAT157Y1, CSC209H1/proficiency in C or C++;
+ Prerequisite for Engineering students only: ECE345H1 or ECE352H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC438H1
+---
+
+---
+Prerequisites: (CSC363H1/CSC463H1)/CSC365H1/CSC373H1/CSC375H1/MAT247H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: MAT309H1; PHL344H1
+
+
+Course Code: CSC369H1
+---
+Principles of operating systems. The operating system as a control program and as a resource allocator. The concept of a process and concurrency problems: synchronization, mutual exclusion, deadlock. Additional topics include memory management, file systems, process scheduling, threads, and protection.
+---
+Prerequisites: CSC209H1, CSC258H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC324H1
+---
+Programming principles common in modern languages; details of commonly used paradigms. The structure and meaning of code. Scope, control flow, datatypes, and parameter passing. Two non-procedural, non-object-oriented programming paradigms: functional programming (illustrated by languages such as Lisp/Scheme, ML or Haskell) and logic programming (typically illustrated in Prolog).
+---
+Prerequisites: CSC263H1/CSC265H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC454H1
+---
+The software and internet industries; principles of operation for successful software enterprises; innovation and entrepreneurship; software business definition and planning; business models, market and product planning; product development, marketing, sales, and support; financial management and financing of high-technology ventures; management, leadership, and partnerships. Students will all write business plans in teams.
+---
+Prerequisites: Five CSC half-courses at the 200-level or higher
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC373H1
+---
+Standard algorithm design techniques: divide-and-conquer, greedy strategies, dynamic programming, linear programming, randomization, network flows, approximation algorithms.  Brief introduction to NP-completeness: polynomial time reductions, examples of various NP-complete problems, self-reducibility.  Additional topics may include approximation and randomized algorithms.  Students will be expected to show good design principles and adequate skills at reasoning about the correctness and complexity of algorithms.
+---
+Prerequisites: CSC263H1/CSC265H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC375H1
+
+
+Course Code: CSC384H1
+---
+Theories and algorithms that capture (or approximate) some of the core elements of computational intelligence. Topics include: search; logical representations and reasoning, classical automated planning, representing and reasoning with uncertainty, learning, decision making (planning) under uncertainty. Assignments provide practical experience, in both theory and programming, of the core topics.
+---
+Prerequisites: CSC263H1/CSC265H1, STA247H1/STA255H1/STA257H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC443H1
+---
+Implementation of database management systems. Storage management, indexing, query processing, concurrency control, transaction management. Database systems on parallel and distributed architectures. Modern database applications: data mining, data warehousing, OLAP, data on the web. Object-oriented and object-relational databases.
+---
+Prerequisites: CSC343H1, CSC369H1, CSC373H1/CSC375H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC485H1
+---
+Computational linguistics and the processing of language by computer. Topics include: context-free grammars; chart parsing, statistical parsing; semantics and semantic interpretation; ambiguity resolution techniques; reference resolution. Emphasis on statistical learning methods for lexical, syntactic, and semantic knowledge.
+---
+Prerequisites: STA247H1/STA255H1/STA257H1 or familiarity with basic probability theory, including Bayes's theorem; CSC207H1/CSC209H1 or proficiency in Python and software development.
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC263H1
+---
+Algorithm analysis: worst-case, average-case, and amortized complexity. Expected worst-case complexity, randomized quicksort and selection.  Standard abstract data types, such as graphs, dictionaries, priority queues, and disjoint sets. A variety of data structures for implementing these abstract data types, such as balanced search trees, hashing, heaps, and disjoint forests. Design and comparison of data structures. Introduction to lower bounds.
+---
+Prerequisites: CSC207H1, CSC236H1/CSC240H1; STA247H1/STA255H1/STA257H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC265H1
+
+
+Course Code: CSC207H1
+---
+An introduction to software design and development concepts, methods, and tools using a statically-typed object-oriented programming language such as Java. Topics from: version control, unit testing, refactoring, object-oriented design and development, design patterns, advanced IDE usage, regular expressions, and reflection.  Representation of oating-point numbers and introduction to numerical computation.
+---
+Prerequisites: 60% or higher in CSC148H1/CSC150H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC458H1
+---
+Computer networks with an emphasis on network programming and applications. An overview of networking basics: layering, naming, and addressing, packet switching fundamentals, socket programming, protocols, congestion control, routing, network security, wireless networks, multimedia, web 2.0, software-defined networking, and online social networks.
+---
+Prerequisites: CSC209H1, CSC258H1, CSC263H1/CSC265H1, STA247H1/STA255H1/STA257H1/ECO227Y1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC428H1
+---
+Understanding human behaviour as it applies to user interfaces: work activity analysis, observational techniques, questionnaire administration, and unobtrusive measures. Operating parameters of the human cognitive system, task analysis and cognitive modelling techniques and their application to designing interfaces. Interface representations and prototyping tools. Cognitive walkthroughs, usability studies and verbal protocol analysis. Case studies of specific user interfaces.
+---
+Prerequisites: CSC318H1; STA247H1/STA255H1/STA257H1,(STA248H1/STA250H1/STA261H1)/(PSY201H1, PSY202H1)/(SOC202H1, SOC300H1); CSC209H1/proficiency C++ or Java
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC336H1
+---
+The study of computational methods for solving problems in linear algebra, non-linear equations, and approximation. The aim is to give students a basic understanding of both floating-point arithmetic and the implementation of algorithms used to solve numerical problems, as well as a familiarity with current numerical computing environments.
+---
+Prerequisites: CSC148H1/CSC150H1; MAT133Y1(70%)/(MAT135H1, MAT136H1)/MAT135Y1/MAT137Y1/MAT157Y1, MAT221H1/MAT223H1/MAT240H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC350H1, CSC351H1
+
+
+Course Code: CSC465H1
+---
+Using mathematics to write error-free programs. Proving each refinement; identifying errors as they are made. Program development to meet specifications; modifications that preserve correctness. Useful for all programming; essential for programs that lives depend on. Basic logic, formal specifications, refinement. Conditional, sequential, parallel, interaction, probabilistic programming, and functional programming.
+---
+Prerequisites: CSC236H1/CSC240H1/MAT309H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC108H1
+---
+Programming in a language such as Python. Elementary data types, lists, maps.  Program structure: control flow, functions, classes, objects, methods. Algorithms and problem solving. Searching, sorting, and complexity. Unit testing. No prior programming experience required.
+---
+Prerequisites: No prerequisites
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC120H1, CSC121H1, CSC148H1
+
+
+Course Code: CSC411H1
+---
+An introduction to methods for automated learning of relationships on the basis of empirical data. Classification and regression using nearest neighbour methods, decision trees, linear models, and neural networks. Clustering algorithms. Problems of overfitting and of assessing accuracy. Problems with handling large databases. Emphasis on statistical approaches.
+---
+Prerequisites: CSC263H1/CSC265H1, MAT(135H1,136H1)/MAT137Y1/MAT137Y1/MAT157Y1, STA247H1/STA255H1/STA257H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC494Y1
+---
+
+---
+Prerequisites: No prerequisites
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC318H1
+---
+User-centred design of interactive systems; methodologies, principles, and metaphors; task analysis. Interdisciplinary design; the role of graphic design, industrial design, and the behavioural sciences. Interactive hardware and software; concepts from computer graphics. Typography, layout, colour, sound, video, gesture, and usability enhancements. Classes of interactive graphical media; direct manipulation systems, extensible systems, rapid prototyping tools. Students work on projects in interdisciplinary teams.
+---
+Prerequisites: Any CSC half-course
+---
+BR: No br
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC420H1
+---
+Introduction to basic concepts in computer vision. Extraction of image features at multiple scales. Robust estimation of model parameters. Multiview geometry and reconstruction. Image motion estimation and tracking. Object recognition. Topics in scene understanding as time permits.
+---
+Prerequisites: CSC263H1/CSC265H1, (MAT135H1, MAT136H1)/MAT135Y1/MAT137Y1/MAT157Y1, MAT221H1/MAT223H1/MAT240H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC469H1
+---
+An in-depth exploration of the major components of operating systems with an emphasis on the techniques, algorithms, and structures used to implement these components in modern systems. Project-based study of process management, scheduling, memory management, file systems, and networking is used to build insight into the intricacies of a large concurrent system.
+---
+Prerequisites: CSC369H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC258H1
+---
+Computer structures, machine languages, instruction execution, addressing techniques, and digital representation of data. Computer system organization, memory storage devices, and microprogramming. Block diagram circuit realizations of memory, control and arithmetic functions. There are a number of laboratory periods in which students conduct experiments with digital logic circuits. 
+---
+Prerequisites: 60% or higher in CSC148H1/CSC150H1, 60% or higher in CSC165H1/CSC240H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC301H1
+---
+An introduction to agile development methods appropriate for medium-sized teams and rapidly-moving projects. Basic software development infrastructure; requirements elicitation and tracking; estimation and prioritization; teamwork skills; basic UML; design patterns and refactoring; security, discussion of ethical issues, and professional responsibility.
+---
+Prerequisites: CSC209H1, CSC263H1/CSC265H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC300H1
+---
+Privacy and Freedom of Information; recent Canadian legislation and reports. Computers and work; employment levels, quality of working life. Electronic fund transfer systems; transborder data flows. Computers and bureaucratization. Computers in the home; public awareness about computers. Robotics. Professionalism and the ethics of computers. The course is designed not only for science students, but also those in social sciences or humanities.
+---
+Prerequisites: Any half-course on computing
+---
+BR: (3) Society and its Institutions
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC165H1
+---
+Introduction to abstraction and rigour. Informal introduction to logical notation and reasoning. Understanding, using and developing precise expressions of mathematical ideas, including definitions and theorems. Structuring proofs to improve presentation and comprehension. General problem-solving techniques. Running time analysis of iterative programs.  Formal definition of Big-Oh.  Diagonalization, the Halting Problem, and some reductions. Unified approaches to programming and theoretical problems.
+---
+Prerequisites: No prerequisites
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC236H1, CSC240H1
+
+
+Course Code: CSC343H1
+---
+Introduction to database management systems. The relational data model. Relational algebra. Querying and updating databases: the query language SQL. Application programming with SQL. Integrity constraints, normal forms, and database design. Elements of database system technology: query processing, transaction management.
+---
+Prerequisites: CSC165H1/CSC240H1/(MAT135H1, MAT136H1)/MAT135Y1/MAT137Y1/MAT157Y1; CSC207H1.
+Prerequisite for Engineering students only: ECE345H1/CSC190H1/CSC192H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC434H1
+
+
+Course Code: CSC309H1
+---
+An introduction to software development on the web. Concepts underlying the development of programs that operate on the web; survey of technological alternatives; greater depth on some technologies. Operational concepts of the internet and the web, static client content, dynamic client content, dynamically served content, n-tiered architectures, web development processes, and security on the web. Assignments involve increasingly more complex web-based programs. Guest lecturers from leading e-commerce firms will describe the architecture and operation of their web sites.
+---
+Prerequisites: CSC209H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC209H1
+---
+Software techniques in a Unix-style environment, using scripting languages and a machine-oriented programming language (typically C). What goes on in the operating system when programs are executed. Core topics: creating and using software tools, pipes and filters, file processing, shell programming, processes, system calls, signals, basic network programming.
+---
+Prerequisites: CSC207H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC372H1, CSC369H1, CSC469H1
+
+
+Course Code: CSC410H1
+---
+Concepts and state-of-the-art techniques in quality assessment for software engineering; quality attributes; formal specifications and their analysis; testing, verification, and validation.
+---
+Prerequisites: CSC207H1, CSC236H1/CSC240H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC148H1
+---
+Abstract data types and data structures for implementing them. Linked data structures. Encapsulation and information-hiding. Object-oriented programming. Specifications. Analyzing the efficiency of programs. Recursion. This course assumes programming experience as provided by CSC108H1. Students who already have this background may consult the Computer Science Undergraduate Office for advice about skipping CSC108H1. Practical (P) sections consist of supervised work in the computing laboratory. These sections are offered when facilities are available, and attendance is required. NOTE: Students may go to their college to drop down from CSC148H1 to CSC108H1. See above for the drop down deadline.
+---
+Prerequisites: CSC108H1/(equivalent programming experience)
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC150H1
+
+
+Course Code: CSC490H1
+---
+This half-course gives students experience solving a substantial problem that may span several areas of Computer Science. Students will define the scope of the problem, develop a solution plan, produce a working implementation, and present their work using written, oral, and (if suitable) video reports. Class time will focus on the project, but may include some lectures. The class will be small and highly interactive. Project themes change each year. Contact the Computer Science Undergraduate Office for information about this year’s topic themes, required preparation, and course enrolment procedures. Not eligible for CR/NCR option.
+---
+Prerequisites: Permission of the instructor
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC104H1
+---
+Humans have solved problems for millennia on computing devices by representing data as diverse numbers, text, images, sound and genomes, and then transforming the data.  A gentle introduction to designing programs (recipes) for systematically solving problems that crop up in diverse domains such as science, literature, and graphics.  Social and intellectual issues raised by computing.  Algorithms, hardware, software, operating systems, the limits of computation.
+Note: you may not take this course concurrently with any Computer Science course, but you may take 
+---
+Prerequisites: No prerequisites
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: Any Computer Science course
+
+
+Course Code: CSC404H1
+---
+Concepts and techniques for the design and development of electronic games. History, social issues, and story elements. The business of game development and game promotion. Software engineering, artificial intelligence, and graphics elements. Level and model design. Audio elements. Practical assignments leading to team implementation of a complete game.
+---
+Prerequisites: CSC301H1/CSC318H1/CSC384H1/CSC418H1
+---
+BR: (1) Creative and Cultural Representation
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC436H1
+---
+
+---
+Prerequisites: CSC336H1/CSC350H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC351H1
+
+
+Course Code: CSC495H1
+---
+This half-course involves a significant project in any area of Computer Science. The project may be undertaken individually or in small groups. The course is offered by arrangement with a Computer Science faculty member. Not eligible for CR/NCR option.
+---
+Prerequisites: Three 300-/400-level CSC half-courses, and permission of the Associate Chair, Undergraduate Studies. Contact the Computer Science Undergraduate Office for information about course enrolment procedures.
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: No exclusion
+
+
+Course Code: CSC265H1
+---
+This course covers the same topics as CSC263H1, but at a faster pace, in greater depth and with more rigour, and with more challenging assignments. Greater emphasis will be placed on proofs, theoretical analysis, and creative problem-solving. Certain topics briefly mentioned in CSC263H1 may be covered in more detail in this course, and some additional topics may also be covered. Students without the exact course prerequisites but with a strong mathematical background are encouraged to consult the Department about the possibility of taking this course.
+ NOTE: Students may go to their college to drop down from 
+---
+Prerequisites: CSC240H1 or an A- in CSC236H1
+---
+BR: (5) The Physical and Mathematical Universes
+---
+Exclusion: CSC263H1
+
+

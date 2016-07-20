@@ -1,0 +1,456 @@
+Program Name: German [GER courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ger.html
+---
+
+
+Program Name: Jewish Studies, Center for [CJS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/jsp.html
+---
+
+
+Program Name: Physiology [PSL courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/psl.html
+---
+
+
+Program Name: Cell and Systems Biology [CSB courses - includes BIO130H1, 230H1, 255H1, 260H1 270H1 and 271H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/csb.html
+---
+
+
+Program Name: Impact Center [IMC courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/otc.html
+---
+
+
+Program Name: Political Science [POL courses - includes JHP304Y1, JPD439Y1, JPF455Y1, JPP343H1, JPR364Y1, JPU315H1, and JRA]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/pol.html
+---
+
+
+Program Name: Rotman Commerce  [RSM courses - includes MGT201H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/compg.html
+---
+
+
+Program Name: Geography [GGR courses - includes JGE321H1 and JGI216H1, 346H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ggr.html
+---
+
+
+Program Name: Sexual Diversity Studies, Mark S. Bonham Centre [SDS courses - includes JSU237H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/sdst.html
+---
+
+
+Program Name: Concurrent Teacher Eduation Program [EDU courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ctep.html
+---
+
+
+Program Name: Nutritional Science [NFS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/nusci.html
+---
+
+
+Program Name: Cinema Studies [CIN courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/cine.html
+---
+
+
+Program Name: Computer Science [CSC courses - includes ECE]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/csc.html
+---
+
+
+Program Name: Statistical Sciences [STA courses - includes ACT]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/stat.html
+---
+
+
+Program Name: Contemporary Asian Studies [CAS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/asi.html
+---
+
+
+Program Name: Collaborative Literature [COL courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/col.html
+---
+
+
+Program Name: Earth Sciences [ESS courses - includes ENV233H1 and JGA305H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/es.html
+---
+
+
+Program Name: Art  [FAH courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/far.html
+---
+
+
+Program Name: Slavic Languages and Literature [SLA courses - includes EST, FIN]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/sla.html
+---
+
+
+Program Name: History [HIS courses - includes JHA384H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/his.html
+---
+
+
+Program Name: Molecular Genetics and Microbiology [MGY courses - includes MIJ485H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/medgm.html
+---
+
+
+Program Name: American Studies [USA courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/csus.html
+---
+
+
+Program Name: History and Philosophy of Science and Technology [HPS courses - includes JHE353H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ihpst.html
+---
+
+
+Program Name: Philosophy [PHL courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/phl.html
+---
+
+
+Program Name: South Asian Studies [SAS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/sas.html
+---
+
+
+Program Name: Economics [ECO courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/eco.html
+---
+
+
+Program Name: Canadian Institute for Theoretial Astrophysics [CTA courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/cita.html
+---
+
+
+Program Name: Ethics, Centre for [ETH courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ethic.html
+---
+
+
+Program Name: Trinity College Courses [TRN courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/trin.html
+---
+
+
+Program Name: Music [MUS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/music.html
+---
+
+
+Program Name: Chemistry [CHM courses - includes JSC301H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/chm.html
+---
+
+
+Program Name: Environment, School of  [ENV courses includes JEE337H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/envmt.html
+---
+
+
+Program Name: Criminology and Sociolegal Studies, Centre for [CRI courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/crim.html
+---
+
+
+Program Name: Pharmacology [PCL courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/pcl.html
+---
+
+
+Program Name: Innis College Courses [INI courses - includes JGI450Y1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/innis.html
+---
+
+
+Program Name: French  [FRE courses - includes FCS, FSL and JFL478H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/fre.html
+---
+
+
+Program Name: Physics [PHY courses  - includes ENV237H1, ENV238H1, JPE395H1, JPE493H1, JPH441H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/phy.html
+---
+
+
+Program Name: Aboriginal Studies [ABS courses - includes JFP450H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/asabs.html
+---
+
+
+Program Name: Sociology [SOC courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/soc.html
+---
+
+
+Program Name: St. Michael's College Courses [SMC courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/smc.html
+---
+
+
+Program Name: Drama, Theatre and Performace Studies, Centre for [DRM courses - includes JDC410H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/drama.html
+---
+
+
+Program Name: Public Policy, School of [PPG courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/spp.html
+---
+
+
+Program Name: Woodsworth College Courses [WDW courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/wdw.html
+---
+
+
+Program Name: Psychology [PSY courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/psy.html
+---
+
+
+Program Name: Classics [CLA courses - includes GRK, and LAT]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/clas.html
+---
+
+
+Program Name: Spanish [SPA courses - includes PRT]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/spa.html
+---
+
+
+Program Name: Latin American Studies [LAS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/las.html
+---
+
+
+Program Name: Medieval Studies, Centre for [MST courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/mst.html
+---
+
+
+Program Name: Linguistics [LIN courses - includes  JAL328H1, 401H1, JLP315H1, 374H1, 471H1 and JLS472H1, 473H1, and 476H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/lin.html
+---
+
+
+Program Name: Diaspora and Transnational Studies [DTS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/dts.html
+---
+
+
+Program Name: Religion [RLG courses - includes MHB]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/rlg.html
+---
+
+
+Program Name: Pharmaceutical Chemistry [PHC courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/phm.html
+---
+
+
+Program Name: Mathematics [MAT courses includes APM]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/mat.html
+---
+
+
+Program Name: First Year Seminars [CCR, TBB, SII, LTE, PMU and XBC courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/assem.html
+---
+
+
+Program Name: English Language Learning [ELL course]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/new.html
+---
+
+
+Program Name: East Asian Studies [EAS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/eas.html
+---
+
+
+Program Name: Ecology & Evolutionary Biology [EEB courses - includes BIO120H1, 220H1, 251H1, EHJ352H1, ENV234H1, 334H1 and JMB170Y1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/eeb.html
+---
+
+
+Program Name: Astronomy & Astrophysics [AST courses - includes PLN]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ast.html
+---
+
+
+Program Name: Women and Gender Studies [WGS courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/wgsi.html
+---
+
+
+Program Name: Peace, Conflict and Justice Studies [PCJ courses - includes MUN]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/glaf.html
+---
+
+
+Program Name: Laboratory Medicine and Pathobiology [LMP courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/lmp.html
+---
+
+
+Program Name: New College Courses [NEW courses - includes ELL010H1,  JLN327H1, JLN427H1, JNH350H1, JQR360H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/new.html
+---
+
+
+Program Name: University College Courses [UNI courses -includes CDN, COG, HST, JSU, JUM and PHS]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/uc.html
+---
+
+
+Program Name: Near & Middle Eastern Civilizations [NMC courses - includes NML]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/nmc.html
+---
+
+
+Program Name: Employment Relations, Centre for Industrial Relations and Human Resources [IRE courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ire.html
+---
+
+
+Program Name: Italian [ITA courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ita.html
+---
+
+
+Program Name: English [ENG courses - includes JEI206H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/eng.html
+---
+
+
+Program Name: Forestry [FOR courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/for.html
+---
+
+
+Program Name: Online courses
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/online.html
+---
+
+
+Program Name: Anatomy [ANA courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ana.html
+---
+
+
+Program Name: Victoria College Courses [VIC courses - includes IVP210H1, JSV200H1, 201H1 and 202H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/vic.html
+---
+
+
+Program Name: Immunology [IMM courses]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/imm.html
+---
+
+
+Program Name: Human Biology [HMB courses - includes HAJ453H1 and JEH455H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/hmb.html
+---
+
+
+Program Name: European Studies [EUR courses -  includes HUN, JRA, MGR]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ceres.html
+---
+
+
+Program Name: Biochemistry [BCH courses - includes BCB]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/bch.html
+---
+
+
+Program Name: Anthropology [ANT courses - includes ARH and JAL355H1]
+---
+URL: http://www.artsandscience.utoronto.ca/ofr/timetable/winter/ant.html
+---
+
+

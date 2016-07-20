@@ -1,5 +1,4 @@
 # WebCrawlerPractice
-Simple and buggy ut course info crawler
 
 功能：
 ---

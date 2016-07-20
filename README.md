@@ -4,13 +4,7 @@ Simple and buggy ut course info crawler
 功能：
 ---
 
-* 从TimeTable中提取所有课程代码
-
-  * 仅作为筛选有效course code的手段，本身不提取任何课程信息
-
-* 从Course Finder中利用提取出的课程代码提取指定学期的课程，生成Course Finder网页链接
-* 解析所有生成的连接，提取有用信息
-* 保存至根目录course.txt
+* 获取UT所有Program的课程列表，根据需要对单一Program所有的课程进行访问，获取有关于这门课的信息，并保存至本地
 * 功能本身与UT自己的Arts & Sciences Calendar类似，仅作练手用
 
 代码结构：
